@@ -8,11 +8,11 @@
 module.exports = {
     en: {
         translation: {
-            SKILL_NAME: 'Space Facts',
+            SKILL_NAME: 'Hacktoberfest Facts',
             GET_FACT_MESSAGE: 'Here\'s your fact: ',
-            HELP_MESSAGE: 'You can say tell me a space fact, or, you can say exit... What can I help you with?',
+            HELP_MESSAGE: 'You can say tell me a Hacktoberfest fact, or, you can say exit... What can I help you with?',
             HELP_REPROMPT: 'What can I help you with?',
-            FALLBACK_MESSAGE: 'The Space Facts skill can\'t help you with that.  It can help you discover facts about space if you say tell me a space fact. What can I help you with?',
+            FALLBACK_MESSAGE: 'The Hacktober Facts skill can\'t help you with that.  It can help you discover facts about hacktoberfest if you say tell me a fact. What can I help you with?',
             FALLBACK_REPROMPT: 'What can I help you with?',
             ERROR_MESSAGE: 'Sorry, an error occurred.',
             STOP_MESSAGE: 'Goodbye!',
