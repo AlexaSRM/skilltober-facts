@@ -20,6 +20,7 @@ module.exports = {
             [
                 'Hacktoberfest takes place during October',
                 'Hacktoberfest is presented by Digital Ocean , DEV and Intel.',
+                'Hacktoberfest promotes open source development',
             ],
         }
     },
